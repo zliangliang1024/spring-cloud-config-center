@@ -1,3 +1,2 @@
 config:
-  dev:
-    info: dev
+    info: dev-dev
