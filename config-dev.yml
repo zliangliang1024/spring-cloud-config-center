@@ -1,3 +1,2 @@
 config:
-  master:
-    info: dev
+    info: master-dev

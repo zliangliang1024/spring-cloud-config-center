@@ -1,3 +1,2 @@
 config:
-  master:
-    info: test
+    info: master-test
